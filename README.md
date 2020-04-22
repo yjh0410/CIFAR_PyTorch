@@ -1,2 +1,2 @@
-# Action-Detection
-Detect the class of one person’s action based on a static image.
+# CIFAR_PyTorch
+This is a very basic deep learning project.
